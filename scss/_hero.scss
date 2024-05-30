@@ -1,0 +1,20 @@
+.hero{
+    width: 1300px;
+    height: 284px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    p{  
+        font-family: "font";
+        font-size: 16px;
+        text-align: center;
+        width: 800px;
+        padding: 16px 0px;
+    }
+    h1{
+        font-size: 40px;
+        font-family: "font";
+    }
+}
